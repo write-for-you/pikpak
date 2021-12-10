@@ -17,3 +17,4 @@
 
 ### Cloudflare Workers
   * [CF Workers实现反代](cf-worker)
+### 使用自己的域名替换github.io域名后,记得添加一个Name为BASE_PATH，Value为/的secrets.
