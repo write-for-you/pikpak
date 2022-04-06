@@ -45,11 +45,6 @@ const routes: RouteRecordRaw[] = [
         name: 'share',
         component: () => import('../views/share.vue')
       }
-      {
-        path: 'share',
-        name: 'share',
-        component: () => import('../views/share.vue')
-      }
     ]
   },
   {
