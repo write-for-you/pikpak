@@ -49,7 +49,7 @@ const routes: RouteRecordRaw[] = [
         path: 'share',
         name: 'share',
         component: () => import('../views/share.vue')
-       }
+      }
     ]
   },
   {
